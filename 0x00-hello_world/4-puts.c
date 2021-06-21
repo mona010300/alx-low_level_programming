@@ -1,6 +1,5 @@
-#!/bin/bash
-/* This is my first c program*/
 #include <stdio.h>
+
 /**
  * main -  Entry point
  *
